@@ -17,8 +17,9 @@ for screenshots and a FAQ.
 ## Alternatives
 
 * [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
-* [WasteNoTime](http://www.bumblebeesystems.com/wastenotime/)
+* [WasteNoTime](http://www.bumblebeesystems.com/wastenotime/) - Available only for Safari. See footnotes for more info.
 * [Block Site](https://chrome.google.com/webstore/detail/block-site/eiimnmioipafcokbfikbljfdeojpcgbh)
+* [uBlock Origin](https://ublockorigin.com/) - Can block most counter-productive sites with the help of filter lists. See footnotes.
 
 ## Firefox Review Instructions
 
@@ -29,3 +30,10 @@ folder.
 ## License
 
 [MIT](https://github.com/dguo/pawblock/blob/main/LICENSE)
+
+## Footnotes
+
+* WasteNoTime has discontinued Google Chrome support due to
+> "WasteNoTime extension is no longer supported due to Google's enforcement of Manifest V3 on Chrome, which is incompatible with WasteNoTime" - Bumblebee Systems' Webpage for WasteNoTime.
+
+* uBlock Origin is a content blocker, and not a productivity enhancer tool by design. But it is extensible enough to be used as a site block with the help of filter lists. Filter lists can be found with a simple web search but also can be found at [FilterLists](https://filterlists.com).
